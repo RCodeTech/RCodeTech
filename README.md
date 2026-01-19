@@ -1,12 +1,29 @@
--👋 Hi, I’m @RCodeTech
--👀 I’m interested in software development, web development, and machine learning.
--🌱 I’m currently learning Node.js, React, and exploring AI and deep learning.
--💞️ I’m looking to collaborate on open-source projects, web applications, and innovative tech solutions.
--📫 How to reach me: Email at support@rcodetechnologies.com or via Whatsapp (+234 708 314 2238).
--😄 Pronouns: He/Hi
--⚡ Fun fact: I built my first website at the age of 12 and love experimenting with new technologies!
--💻 Expertise: PHP, MySQL, HTML, JavaScript, jQuery, CSS
-<!---
-RCodeTech/RCodeTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Matthew Kingsley 👋
+
+I'm a **Software Engineer and Systems Builder** with 5+ years of experience designing and developing **scalable business systems, web applications, and backend architectures**.
+
+I’ve been actively involved in tech since **2021**, working across frontend and backend technologies while focusing on **clean architecture, maintainability, and real-world problem solving**.
+
+## 🚀 What I Do
+- Build scalable web and backend systems  
+- Design business-focused software solutions  
+- Develop automation and payment platforms  
+- Architect maintainable and secure applications  
+
+## 🛠️ Tech Stack
+- **Backend:** PHP, MySQL, Node.js  
+- **Frontend:** HTML, CSS, JavaScript, jQuery, React  
+- **Mobile:** Flutter (Dart)  
+- **Focus:** System design, backend architecture, scalability  
+
+## 🏢 Founder
+**R-Code Technologies**  
+A software company focused on building **custom business systems, applications, and digital solutions** for startups and organizations.
+
+## 🌍 Location
+Ebonyi State, Nigeria
+
+## 📫 Connect
+- LinkedIn: Matthew Kingsley
+- X (Twitter): DevKingz
+- Website: https://rcodetechnologies.com
